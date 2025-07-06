@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PAGE-TITLE"
-permalink: /URL-PATH
+permalink: /Siva-Sutras/intro.html
 ---
 
-This is my test Nis.
+This is my test Nis New.
