@@ -58,4 +58,4 @@ plugins:
 collections:
   siva-sutras:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
